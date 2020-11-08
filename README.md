@@ -43,7 +43,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:noe.campo@epitech.eu"><img alt="Email" src="https://img.shields.io/badge/Email-noe.campo@epitech.eu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [noe-gif](https://github.com/noe-gif)
