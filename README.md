@@ -4,7 +4,8 @@
 </p>
 
 
-I am an EPITECH student based in brussels. Currently in 2nd year. And I that's it
+
+Hello, I am an EPITECH student based in brussels. Currently in 2nd year. And I that's it
 
 ### Programming Languages 🌐
 
