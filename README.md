@@ -5,7 +5,8 @@
 
 
 
-Hello, I am an EPITECH student based in brussels. Currently in 2nd year. And I that's it
+### Hi there 👋 I'm Campo Noé
+> Student in 2nd year at EPITECH institute of technology
 
 ### Programming Languages 🌐
 
