@@ -17,7 +17,7 @@
 
 - Learning
 
-| [<img src="https://github.com/noe-gif/noe-gif/blob/main/react_native.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://github.com/noe-gif/noe-gif/blob/main/ajax.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |
+| [<img src="https://github.com/noe-gif/noe-gif/blob/main/react_native.png" alt="js logo" width="24">](https://reactnative.dev/)  | [<img src="https://github.com/noe-gif/noe-gif/blob/main/ajax.png" alt="ts logo" width="24">](https://api.jquery.com/jquery.ajax/) |
 |---|---|
 
 ### Tools 🛠️
