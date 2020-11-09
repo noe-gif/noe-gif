@@ -29,7 +29,7 @@
 
 - Learning
 
-| [<img src="https://github.com/noe-gif/noe-gif/blob/main/map.png" alt="docker logo" width="24">](https://www.docker.com/) |
+| [<img src="https://github.com/noe-gif/noe-gif/blob/main/map.png" alt="docker logo" width="24">](https://developers.google.com/maps/documentation?hl=fr) |
 |---|
 
 <br>
