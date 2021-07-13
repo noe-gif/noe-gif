@@ -27,11 +27,6 @@
 | [<img src="https://github.com/noe-gif/noe-gif/blob/main/phpadmin.png" alt="actions logo" width="24">](https://www.phpmyadmin.net/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://github.com/noe-gif/noe-gif/blob/main/firebase.png" alt="aseprite logo" width="24">](https://firebase.google.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gimp.png" alt="gimp logo" width="24">](https://www.gimp.org/)  |  [<img src="https://github.com/noe-gif/noe-gif/blob/main/windows.png" alt="travis ci logo" width="24">](https://www.microsoft.com/fr-be/windows) | [<img src="https://github.com/noe-gif/noe-gif/blob/main/linux.png" alt="gnu make logo" width="24">](https://getfedora.org/fr/) | Linux Terminal |
 |---|---|---|---|---|---|---|---|
 
-- Learning
-
-| [<img src="https://github.com/noe-gif/noe-gif/blob/main/map.png" alt="docker logo" width="24">](https://developers.google.com/maps/documentation?hl=fr) |
-|---|
-
 <br>
 <a href="https://github.com/noe-gif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noe-gif&theme=buefy&show_icons=true" />
