@@ -1,4 +1,4 @@
-[![Header](https://media.discordapp.net/attachments/841310155856805949/928396588131434546/unknown.png?width=960&height=192 "Header")](https://martinheinz.dev/)
+[![Header](https://media.discordapp.net/attachments/841310155856805949/928396588131434546/unknown.png?width=960&height=192 "Header")]
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -54,6 +54,5 @@ Apart from coding, I also maintain a shop - you can find it [here](https://www.w
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[2]: https://github.com/noe-gif
+[3]: https://www.linkedin.com/in/no%C3%A9-campo-1100781a3/
