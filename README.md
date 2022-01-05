@@ -10,15 +10,15 @@ Apart from coding, I also maintain a shop - you can find it [here](https://www.w
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/%20Tools-mongoDb-green?logo=MongoDB)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDb-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/%20Code-Javascript-yellow?logo=JavaScript)
+![](https://img.shields.io/badge/%20Code-HTML-red?logo=HTML5)
+![](https://img.shields.io/badge/%20Code-css-blue?logo=CSS3)
+![](https://img.shields.io/badge/%20Code-react-9cf?logo=React)
+![](https://img.shields.io/badge/%20Code-C-informational?logo=C)
+![](https://img.shields.io/badge/%20Code-C%2B%2B-blueviolet?logo=Java)
+![](https://img.shields.io/badge/%20Code-php-blue?logo=PHP)
+![](https://img.shields.io/badge/%20Code-MySQL-ff69b4?logo=MySQL)
+![](https://img.shields.io/badge/%20Tools-firebase-orange?logo=Firebase)
 
 ## &#x1f4c8; GitHub Stats
 
