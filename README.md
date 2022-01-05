@@ -6,7 +6,7 @@ My name is Noé Campo and I'm a junior developer. I'm from France, living in Bel
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a shop - you can find it here [Noe.dev](https://www.wefit-shop.com/)
+Apart from coding, I also maintain a shop - you can find it [here](https://www.wefit-shop.com/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
