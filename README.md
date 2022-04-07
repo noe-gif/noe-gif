@@ -4,10 +4,6 @@
 
 My name is Noé Campo and I'm a junior developer. I'm from France, living in Belgium and currently studying at Epitech(3d year). You can find me on [![LinkedIn][3.2]][3].
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a shop - you can find it [here](https://www.wefit-shop.com/)
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/%20Tools-mongoDb-green?logo=MongoDB)
 ![](https://img.shields.io/badge/%20Code-Javascript-yellow?logo=JavaScript)
