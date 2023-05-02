@@ -1,4 +1,4 @@
-![Header](https://media.discordapp.net/attachments/841310155856805949/928396588131434546/unknown.png?width=960&height=192 "Header")
+![Header](https://cdn.discordapp.com/attachments/981188293800624198/1102811249974190130/caspar-camille-rubin-89xuP-XmyrA-unsplash.jpg "Header")
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
