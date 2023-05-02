@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Noé Campo, I'll graduate my Computer science master in 2024. Regarding programming I'm specializing in UI / UX software development. Although my skills are not limited to that specific field. If you want to now more you can either contact me on linkedin or check my projects. Here is my profile: [![LinkedIn][3.2]][3].
+My name is **Noé Campo**, I'll graduate my **Computer science** master in 2024. Regarding programming I'm specializing in **UI / UX software development**. Although my skills are not limited to that specific field. In fact I'm able to build full stack applications too. If you want to now more you can either contact me on linkedin or check my projects. Here is my profile: [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/%20Tools-mongoDb-green?logo=MongoDB)
@@ -45,7 +45,7 @@ My name is Noé Campo, I'll graduate my Computer science master in 2024. Regardi
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://cdn.discordapp.com/attachments/981188293800624198/1102826309966639196/174857.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
