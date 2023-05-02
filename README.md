@@ -1,4 +1,4 @@
-![Header](https://cdn.discordapp.com/attachments/981188293800624198/1102817966212522015/techStack.png "Header")
+![Header](https://cdn.discordapp.com/attachments/981188293800624198/1102819145067798538/techStack.png "Header")
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
