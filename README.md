@@ -45,7 +45,7 @@ My name is **Noé Campo**, I'll graduate my **Computer science** master in 2024.
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://cdn.discordapp.com/attachments/981188293800624198/1102826923035467816/174857-transformed_1.png (LinkedIn icon without padding)
+[3.2]: https://cdn.discordapp.com/attachments/981188293800624198/1102827075645214740/174857-transformed_2.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
