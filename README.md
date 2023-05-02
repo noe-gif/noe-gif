@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Noé Campo and I'm a junior developer. I'm from France, living in Belgium and currently studying at Epitech(3d year). You can find me on [![LinkedIn][3.2]][3].
+My name is Noé Campo, I'll graduate my Computer science master in 2024. Regarding programming I'm specializing in UI / UX software development. Although my skills are not limited to that specific field. If you want to now more you can either contact me on linkedin or check my projects. Here is my profile: [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/%20Tools-mongoDb-green?logo=MongoDB)
