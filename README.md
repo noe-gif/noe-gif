@@ -1,8 +1,8 @@
 ![Header](https://cdn.discordapp.com/attachments/981188293800624198/1102820817622020178/techStack.png "Header")
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! I'm Noé, frontend engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is **Noé Campo**, I'll graduate my **Computer science** master in 2024. Regarding programming I'm specializing in **UI / UX software development**. Although my skills are not limited to that specific field. In fact I'm able to build full stack applications too. If you want to now more you can either contact me on linkedin or check my projects. Here is my profile: [![LinkedIn][3.2]][3].
+Don't hesitate to take a look at my projects but you can see up here a few of the ui's I've built over time [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/%20Tools-mongoDb-green?logo=MongoDB)
