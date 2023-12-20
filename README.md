@@ -1,4 +1,4 @@
-![Header](https://cdn.discordapp.com/attachments/981188293800624198/1102820817622020178/techStack.png "Header")
+![Header]([https://cdn.discordapp.com/attachments/981188293800624198/1102820817622020178/techStack.png](https://cdn.discordapp.com/attachments/774360587391860769/1186868514477326417/jefzojfozejfezofjofze.png?ex=6594d070&is=65825b70&hm=65aaa5321e3bbf75d1a7444867dd24750b766ecbf78b99fb705c5d95a00ae1e4&) "Header")
 
 # Hello, folks! I'm Noé, frontend engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
